@@ -1,0 +1,45 @@
+**Payment Issues Policy**
+
+Our company aims to provide a smooth and trouble-free purchasing experience, including the payment process. Should you encounter any issues with payment, please refer to the following policy guidelines:
+
+1. **Double Charging**:
+   - If you believe you were charged twice for an order, please contact us immediately.
+   - Provide us with the transaction details, such as order number, transaction dates, and amounts charged.
+   - We will verify the transactions on our end and if a double charge occurred, we will initiate a refund for the duplicate charge within 5 business days.
+
+2. **Delayed Payment**:
+   - Occasionally, payments may take longer to process due to bank verifications or system delays.
+   - If your payment does not show as received on your order status within 2 business days, reach out to our Customer Support Team.
+   - Provide your order number, payment method used, and the time the payment was attempted.
+   - We will investigate the issue and may request additional information or direct you to contact your bank or payment service provider.
+
+3. **Failure to Complete Payment with Selected Method**:
+   - If you are unable to complete a payment using your preferred method, first retry after checking for any input errors or connectivity issues.
+   - If the issue persists, contact our Customer Support Team for assistance.
+   - We can suggest alternative payment methods and guide you through the process.
+   - Note that some payment failures may be due to restrictions placed by your bank or credit card company, so contacting them might be necessary.
+
+4. **Accepted Payment Methods**:
+   - We accept various payment methods such as credit cards, debit cards, PayPal, and other digital wallets.
+   - Ensure that your selected payment method is up to date and funded sufficiently before making a purchase.
+
+5. **Security Checks**:
+   - In some cases, payments may be subject to additional security checks by our team or by payment providers.
+   - Such checks may temporarily hold or delay the processing of your payment.
+   - We aim to complete these checks swiftly; however, cooperation in providing any requested information will expedite the process.
+
+6. **Transaction Records**:
+   - Always keep a record of your transaction receipts and order confirmations for reference.
+   - In case of any discrepancies, these records will simplify the resolution process.
+
+**Contact Information**:
+For any payment-related issues, please contact our Customer Support Team:
+- Email: paymentsupport@email.com
+- Phone: 1 (800) 000-0011
+- Contact Form: [Website's Payment Support Page](#)
+
+**Policy Updates**:
+We reserve the right to modify or update this Payment Issues Policy. Customers are encouraged to review the policy periodically for any changes.
+
+**Assistance**:
+Our team is committed to addressing payment issues promptly. Do not

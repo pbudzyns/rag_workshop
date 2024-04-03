@@ -1,0 +1,6 @@
+langchain
+langchain-community
+faiss-cpu
+unstructured
+numpy
+jupyter
