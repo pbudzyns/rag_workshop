@@ -25,6 +25,8 @@ To run the notebooks you will need Ollama installed (recommended).
 Alternatively you can use OpenAI API key or a model from HuggingFace.
 
 To install Ollama follow the [instructions](https://ollama.com/download).
+After installation run `ollama run llama2` to pull the model and verify that everything 
+is working well. 
 
 To get OpenAI API token you will have to create OpenAI account. 
 
